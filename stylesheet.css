@@ -1,0 +1,349 @@
+@media only screen and (min-width: 768px) {
+  .site-header {
+    position: sticky;
+    top: 0px;
+    float: left;
+    width: 20%;
+    /* reset style */
+    visibility: visible;
+    opacity: 1;
+
+    height: 100vh;
+    min-width: 170px;
+    }
+
+    #logo {
+        display: block;
+        margin: 0px auto;
+        width: 30%;
+        padding: 10% 0px;
+    }
+
+
+    #navigation {
+        
+        margin: 0px auto;
+        padding: 10px 0px;
+        text-align: center;
+        
+    }
+    
+    .header-button {
+        margin: 0px auto;
+        padding: 10px 0px 5px 0px;
+        border-color: black;
+        border-bottom: 1px solid #000;
+        width: 60%;
+
+    }
+    
+    #footer {
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 15px;
+        text-align: center;
+        }
+        
+    #linkedin-button {
+        padding: 10px 0px;
+
+    }
+
+    .img-wrapper {
+
+        
+    
+    }
+
+    .project-description {
+        padding: 0px 5%;
+        width: 20%;
+        min-width: 75%;
+    }
+    p {
+        margin: 0px;
+        padding: 15px 0px;
+        font-family: 'Raleway', sans-serif;
+        font-size: .8em;
+        color: #000B19;
+    }
+    
+    a {
+        color: #000B19;
+    }
+    
+    
+    
+    h1 {
+        font-family: 'Khula', sans-serif;
+        font-weight: bold;
+        font-size: 2.5em;
+        color: #000B19;
+    }
+    
+    h2 {
+        font-family: 'Khula', sans-serif;
+        font-weight: normal;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+}
+ 
+
+@media only screen and (max-width: 768px) {
+        .site-header {
+            display: flex;
+            position: sticky;
+            top: 0px;
+
+            background: rgb(0, 247, 74);
+
+
+        }
+
+        #logo-wrapper {
+            padding: 10px;
+            background: rgb(218, 231, 27);
+            width: 25%;
+            overflow: auto;
+        }
+
+        #logo {
+            display: block;
+            margin: auto;
+            width: 100%;
+            max-width: 50px;
+
+
+        }
+
+        #navigation {
+            display: block;
+            background: rgb(243, 184, 55);
+            width: 100%;
+
+        }
+        
+        .header-button {
+            padding: 0px 3%;
+            float: right;
+
+            height: 100%;
+            border-color: black;
+
+        }
+
+        .project-description {
+            text-align: center;
+            padding: 0px 30px;
+            width: 100%;
+
+        }
+        
+p {
+    margin: 0px;
+    padding: 15px 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: .8em;
+    color: #000B19;
+}
+
+a {
+    color: #000B19;
+}
+
+
+
+h1 {
+    font-family: 'Khula', sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #000B19;
+}
+
+h2 {
+    font-family: 'Khula', sans-serif;
+    font-weight: normal;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+
+}
+        .project-summary {
+
+}
+   
+
+
+
+    }
+
+
+body {
+    background: #eeeff7;
+    font-size: 100%;
+}
+
+.site-container {
+    margin: 0px auto;
+    padding: 0px;
+    width: 100%;
+    max-width: 1140px;
+}
+
+
+
+
+
+.site-projects {
+    display: flex;
+    flex-direction: column;
+}
+
+.project-container {
+    display: block;
+    padding: 1% 2% 1% 2%;
+    background: #caccca;
+}
+
+.project-list {
+    margin: 0px auto;
+    padding: 5%;
+    background: rgb(22, 198, 230);
+    overflow: auto;
+}
+
+
+
+
+
+.pjt-sel {
+    text-decoration-style: none;
+}
+
+
+
+.content {
+    display: block;
+    border: #000 solid 1px;
+    background: #eeeff7;
+ 
+
+}
+
+
+.img-wrapper {
+    margin: 5% 5%;
+
+    background: #000;
+
+    }
+
+.list-img {
+display: block;
+margin: 0px auto;
+width: 25%;
+}
+
+
+
+
+/*
+.list-img {
+    display: flex;
+    float: left;
+    margin: auto 15px;
+    padding: 0px 0px;
+    width: 200px;
+}
+
+.img-wrapper {
+
+}
+
+
+.project-description {
+
+
+}
+
+.project-title {
+
+}
+
+
+
+*/
+
+
+
+#copyright {
+    font-family: 'Khula', sans-serif;
+    font-size: .8em;
+}
+
+
+font-f
+
+font-family: 'Khula', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blk {
+    background: #000;
+}
+
+.drkblu {
+    background: #000B19;
+}
+
+.deepblu {
+    background: #00213b;
+}
+
+.cement {
+    background: #caccca;
+}
+
+.paste {
+    background: #576366;
+}
+
+.pstlblk {
+    background: #1c1d21;
+}
+
+.pstlgry {
+    background: #31353d;
+}
+
+.pstlblu {
+    background: #445878;
+}
+
+.wtrblu {
+    background: #92cdcf;
+}
+
+.crm {
+    background: #eeeff7;
+}
