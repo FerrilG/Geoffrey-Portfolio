@@ -7,11 +7,11 @@
 <link rel="canonical" href="http://www.g.ferril.com/"/>
 <meta property='og:title' content="Geoffrey Ferril's Portfolio"/>
 <meta property='og:description' content="Geoffrey Ferril is a user experience architect, researcher, and designer living in the Minneapolis region."/>
-<meta property="og:url" content="http://www.g.ferril.com/"/>
+<meta property="og:url" content="//http://www.g.ferril.com/"/>
 <meta property="og:type" content="website"/>
-<meta property="og:image" content="/images/gf_favicon_128x128.png"/>
-<meta property="og:image:width" content="129"/>
-<meta property="og:image:height" content="129"/>
+<meta property="og:image" content="//http://www.g.ferril.com/images/gf_favicon_128x128.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1200"/>
 <meta itemprop="name" content="Geoffrey Ferril's Portfolio"/>
 <meta itemprop="url" content="https://www.g.ferril.com/"/>
 <meta itemprop="thumbnailUrl" content="/images/gf_favicon_128x128.png"/>
@@ -28,10 +28,11 @@
     <link rel="icon" type="image/png" href="/images/gf_favicon_128x128.png">
     <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="layout.css">
 
 
 <script type="text/javascript" src="format.js"></script>    

@@ -9,183 +9,155 @@
 
 <div class="col full">
 
+    <!-- Head --> 
+    <div class="row full crm" style="padding-top:5%;padding-bottom:2%">
+        <div class="container-fluid center-text">
+            <img class="fit banner" src="images/chr/Project-Banner.png" alt="My Solution for C.H. Robinson">
+        </div>
+    </div>
 
-<div class="row full crm" style="padding-top:5%;padding-bottom:2%">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col banner">
-                    <div>
-                        <img class="fit banner" src="images/recreogo/Recreogo_Project-Banner.png" alt="My Solution for Recreogo">
+    <div class="row full title deepblu" style="border-bottom: 2px solid;">
+        <div class="center" style="overflow:hidden">
+            <h1 id="title" style="text-decoration:none">RECREOGO</h1>
+        </div>
+    </div>
+
+
+
+
+    <!-- Tools -->
+    <div class="crm" id="tools">
+        <div class="row" style="padding-bottom:5%;padding-top:5%;">
+            <div class="col center-text" style="border-right: 1px solid;">
+                <h4 class="list">Methods</h2>
+                <ul class="method-list center">
+                    <li>Competetive Analysis</li>
+                    <li>Cognitive Walkthrough</li>
+                    <li>Contextual Inquiries</li>
+                    <li>Prototyping<li>
+                </ul>
+            </div>
+
+            <div class="col center-text" style="border-left: 1px solid;">
+                <h4 class="list">Tools</h2>
+                <ul class="method-list center">
+                    <li>InVision</li>
+                    <li>Sketch</li>
+                    <li>Pen & Paper</li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- Challenge -->
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#challenge">
+        <div class="center" style="display: inline-flex;">
+            <i class="material-icons cont-arrow exp">expand_more</i>
+            <i class="material-icons cont-arrow min">expand_less</i>    
+            <h2>Challenge</h2>
+        </div>
+    </a>
+
+    <div class="crm collapse" id="challenge">
+        <div class="content">
+            <p>Recreogo had one underlining issue they wanted to address:</p>
+            <p class="center-text" style="font-size:1.4rem">How can I improve business owners and customers experience when processing rental transactions with my service?</p>
+            <p>From creating process diagrams to interactive prototypes, Recreogo was open to all forms of feedback that would help retain their current and future clients.</p>       
+        </div>
+    </div>
+
+    
+
+
+    <!-- Approach -->
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#approach">
+        <div class="center" style="display: inline-flex;">
+            <i class="material-icons cont-arrow exp">expand_more</i>
+            <i class="material-icons cont-arrow min">expand_less</i>    
+            <h2>Approach</h2>
+        </div>
+    </a>
+
+    <div class="crm collapse" id="approach">
+        <div class="content">
+            <p>After talking to MOI's executive director, I researched other organizations  to see how they market their services to the community. I built surveys and a prototype of MOI's website to evaluate with community members.</p>
+            <p>I synthesized the results from both and concluded people were confused by the lack of consistency with brand identification.</p>
+            <p>Taking this project further would have included a website re-branding, physical brochures, and surveys to create a stable sense of identification.</p>                
+            <div class="container-fluid" style="margin-top:5%;padding-bottom:1.5em;">
+                <div class="row justify-content-center">
+                    <div class="col banner">
+                        <img class="fit" src="images/chr/process.png" alt="My Design Process for C.H. Robinson">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Head -->
 
-<div class="row full title deepblu">
-        <div class="center" style="overflow:hidden">
-        <h1 id="title" style=" text-decoration:none">RECREOGO</h1>
+
+
+
+
+
+
+    <!-- Research & Findings -->
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#research">
+        <div class="center" style="display: inline-flex;">
+            <i class="material-icons cont-arrow exp">expand_more</i>
+            <i class="material-icons cont-arrow min">expand_less</i>    
+            <h2>Research</h2>
         </div>
-    </div>
+    </a>
 
+    <div class="crm collapse" id="research">
+        <div class="content">
+            <h5 style="margin-top:5%;">User Research</h5>
+            <p>I began my research by conducting a cognitive walkthrough to understand each action and the learnability of the software in which to achieve it. After spending about an hour or two with their service, I was able to formulate a basic understanding of issues users were having. I had the opportunity to go to a users work environment to understand how it fit in with their workflow. I interviewed them to understand their frustrations and pain-points.</p>
 
-
-    <!-- Skills -->
-    <div class="row full crm">
-
-        <div class="container-fluid" style="margin-bottom:8%;">
-            <div class="row justify-content-center">
-                <div class="col">
-                        <img class="fit" src="images/recreogo/process.png" alt="My Design Process for Recreogo">
-                </div>
-            </div>
-
-    </div>
-
-        <div class="container-fluid">
             <div class="row">
-                <div class="col center-text">
-                    <h4>Methods Used</h4>
-                    <ul class="method-list center">
-                        <li>Competetive Analysis</li>
-                        <li>Cognitive Walkthrough</li>
-                        <li>Contextual Inquiries</li>
-                        <li>Prototyping<li>
-                    </ul>
+                <div class="col-6 space">
+                    <img class="fit" src="images/recreogo/conitive_walkthrough.jpg" alt="Conitive Walkthrough">
+                    <p class="img-desc">Cognitive Walkthrough</p>
                 </div>
-
-                <div class="col center-text">
-                    <h4>Tools Used</h4>
-                    <ul class="tool-list center">
-                        <li>InVision</li>
-                        <li>Sketch</li>
-                        <li>Pen & Paper</li>
-                    </ul>
-
+                <div class="col-6 space">
+                    <img class="fit " src="images/recreogo/contextual_inquirey.jpg" alt="Contextual Inquiry">
+                    <p class="img-desc">Contextual Inquirey</p>
                 </div>
             </div>
-        </div>
-</div>
 
-
-
-
-
-
-    <!-- Challenge -->
-    <div class="row full pstlgry">
-
-        <div class="col">
-            <h2 class="center-text">Challenge</h2>
-   <p>
-   Recreogo had one underlining issue they wanted to address:
-
-                <p class="center-text" style="font-size:1.4rem">How can I improve business owners and customers experience when processing rental transactions with my service?</p>
-
-                <p>From creating process diagrams to interactive prototypes, Recreogo was open to all forms of feedback that would help retain their current and future clients.</p>
-        </div>
-    </div>
-
-<!-- Approach -->
-    <div class="row full paste">
-        <div class="col">
-            <h2 class="center-text">Approach</h2>
-
-                <p>
-                After evaluating what Recreogo currently provides and documenting issues, I focused my attention towards content layout to improve engagement and functionality of their service.
-                <br>
-                <br>
-                By discussing with business owners, administrative personal, and general research, I was able to design and prototype a solution that provides more information about equipment to business and customer clients.
-                <br>
-                <br>
-                If more time was allowed i would have tested my prototype with Recreogo's clients and evaluated their feedback to make improvements before delivering to Recreogo.
-        </div>
-    </div>
-
-    <!-- Research -->
-    <div class="row full crm">
-        <div class="col">
-            <h2 class="center-text" style="margin-bottom:8%">Research and Findings</h2>
-            <p>After spending about an hour with their service, I was able to build a basic understanding of current issues users were having. I had an idea as to why there was a problem, but I didn't have the data to support <strong>WHY</strong> their software left <strong>USERS FELT FRUSTRATED</strong>. I built a diagramed walkthrough of the tasks available and how each action would influence the next. I followed this with a business interview to understand how they use the system and their pain-points.</p>
-            <div class="row" style="margin-bottom:4%">
-            <div class="col">
-                <div>
-                    <img class="fit " src="images/recreogo/conitive_walkthrough.jpg" alt="Conitive Walkthrough">
-                </div>
-            </div>
-            <div class="col">
-                <div>
-                <img class="fit " src="images/recreogo/contextual_inquirey.jpg" alt="Patient Progress Tracker">
-                </div>
-            </div>
-            </div> 
-            <div class="col">
-            <p>Once I had the research data, I was able to compare with my initial observations to better <strong>DEFINE THE PROBLEM</strong>.
-            <p class="center-text" style="font-size:1.4rem">Customers had difficulty locating additional information about the available equipment, while business owners were trying to reach customers with limited data fields.</p>
-
-        </div>
-    </div>
-</div>
-
-
-<div class="row full paste">
-        <div class="col">
-        <h2 class="center-text">Proposed Solution</h2>
-        <br>
-        <p>Now that I had a specific problem, I could define what my solution was.
-            <p style="font-size:1.4rem">Create a tool that allows business owners to create equipment listings that are consistent and provide customers with all available information. This tool will allow users to browse content, make educated decisions, and place reservations without needing another touchpoint.</p>
-            <p>I thought about how I could effectively achieve this and incorporate what users are already familiar with and the obvious solution was an e-commerce experience.
-        </p>
-        </div>
-    </div>
-
-    <!-- Solution -->
-    <div class="row full crm" style="padding-top:8%">     
-        <div class="col">
-            <h2 class="center-text">Wireframe Prototype</h2>
-            <br>
-            <p>Taking my proposed solution, I then created wireframes to visualize what the features would look like. I then built an interactive prototype to test functionality and make sure I addressed both types of users.</p>
-            <br>
-            <div class="row" style="margin-bottom:4%">
-            <div class="col">
-                <div>
+            
+            <h5>Wireframes</h5>
+            <p>To begin the UI development, I created wireframes to visualize what the features would look like and the interaction flow. I then built an interactive prototype to test functionality and make sure I addressed both types of users.</p>
+            <div class="row">
+                <div class="col-6 space">
                     <img class="fit " src="images/recreogo/user_wireframe.png" alt="User Wireframes">
+                    <p class="img-desc">Customer Wireframes</p>
+                </div>
+                <div class="col-6 space">
+                    <img class="fit " src="images/recreogo/admin_wireframe.png" alt="Admin Wireframes">
+                    <p class="img-desc">Admin Wireframes</p>
                 </div>
             </div>
-            <div class="col">
-                <div>
-                <img class="fit " src="images/recreogo/admin_wireframe.png" alt="Admin Wireframes">
-                </div>
-            </div>
-            </div>
-            <div class="col">
-                <div class="center">
-                    <img class="fit" src="images/recreogo/recreogo.png" alt="Recreogo Page" style="max-width:575px">
-                </div>
-            </div>
-            <br>
-            <div class="col" style="overflow:hidden">
-            <button type="button" class="btn btn-primary btn-md center view-proto" onclick="window.location.href='https://projects.invisionapp.com/share/MVEJ9M3W8'">View Prototype</button>
-    </div>
-</div>
-</div>
-
-
-<div class="row full lightblu">
-        <div class="col">
-        <h2 class="center-text">Take It Further</h2>
-        <br>
-        <p>Had I been onboard throughout development; I would have observed usability tests with both business owners and customers. I would use this to make future iterations that would guide Recreogo in ways to connect with users.</p>
+            
+            <h5>Findings</h5>
+            <p>Customers had difficulty locating additional information about the available equipment, while business owners were trying to reach customers with limited data fields.</p>
+            
         </div>
     </div>
 
-<div class="deepblu" style="padding-top:10%"></div>
 
 
 
+    <!-- Prototype -->
+    <a class="row full gld collapsed" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" target="_blank" href="https://projects.invisionapp.com/share/MVEJ9M3W8#/screens/264673782">
+    <h2 class="center" style="margin: 0px auto">View Prototype</h2></a>
 
+
+    <div class="deepblu" style="padding-top:10%"></div>
 
 
 <?php

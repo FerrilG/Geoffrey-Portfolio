@@ -7,11 +7,3 @@
                     x.className="col-sm-3 header topnav"
                 }
             };
-
-
-//        jQuery(function () {
-  //          $('.sidebar .button a').click(function () {
-    //            var $heading = $(this).closest('.button').addClass("active");
-      //          $('.sidebar .button.active').not($heading).removeClass('active');
-        //    })
-        //})

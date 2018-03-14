@@ -61,7 +61,70 @@
             <!-- Header -->
 
             <div class="col-sm-3 header topnav" id="myTopnav">
-                <?php include($_SERVER['DOCUMENT_ROOT'].'/global/nav.php'); ?>
+            <div class="row sidebar">
+
+<!-- LOGO -->
+
+<div class="col-12 flip logo light">
+        <a id="home" href="../home.php">
+            <img id="logo" src="../images/gf_light.png" alt="Geoffrey Ferril's Portfolio">
+        </a>
+</div>
+
+
+<div class="col-12 flip mobile-nav">
+<a id="home" href="../home.php">
+            <img id="logo" src="../images/gf_dark.png" alt="Geoffrey Ferril's Portfolio">
+        </a>
+        
+<a href="javascript:void(0);" class="icon" onclick="mobileMenu()"><i class="material-icons" style="font-size:2rem;">menu</i></a>
+</div>
+
+
+<!-- Navigation -->
+
+
+<div class="col-12 flip button mobile">
+        <a class="header-button <?php if($currentPage =='home'){echo 'active';}?>" id="home" href="../home.php">About</a>
+</div>
+
+<!-- Navigation -->
+<div class="col-12 flip button mobile">
+    <div class="row header-button active" style="
+    /* margin-left: -3%; */
+">
+        <a class="col-10" id="work" href="../work.php">Case Studies</a>
+        <a class="col-2 active" style="top: -1px;right: 5px"; data-toggle="collapse" aria-expanded="true" id="work" href="#work-items"><i class="material-icons">expand_more</i></a>
+    </div>
+</div>
+
+
+<div class="col-12 flip collapse <?php if($currentPage =='work'){echo 'show';}?>" style="margin-top:4px" id="work-items">
+
+        <a class="header-button-sub <?php if($subpage =='chr'){echo 'active';}?>" id="chr-nav" href="../chr.php">C.H. Robinson</a>
+
+        <a class="header-button-sub <?php if($subpage =='moi'){echo 'active';}?>" id="moi-nav" href="../moi.php">MOI</a>
+
+        <a class="header-button-sub <?php if($subpage =='emr'){echo 'active';}?>" id="emr-nav" href="../emr.php">Backpack EMR</a>
+
+        <a class="header-button-sub <?php if($subpage =='recreogo'){echo 'active';}?>" id="recreogo-nav" href="../recreogo.php">Recreogo</a>
+
+        <a class="header-button-sub <?php if($subpage =='prime'){echo 'active';}?>" style="margin-bottom:4px" id="prime-nav" href="../prime.php">Prime Digital Academy</a>
+        <div style="border-bottom:2px solid #0e5787;margin: auto 20%;"></div>
+
+</div>
+
+
+<div class="copyright">
+        <a target="_blank" href="https://www.linkedin.com/in/geoffreyferril/">
+<img class="social" src="../images/linkedin.png">
+</a>
+<p>©2018 Geoffrey Ferril</p>
+</div>
+
+</div>
+
+
+
             </div>
         
-            <!-- content -->

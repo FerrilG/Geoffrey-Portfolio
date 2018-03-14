@@ -22,14 +22,14 @@
                 
                 <div class="col">
                     <div class="project-description" id="chr-description">
-                        <h1 class="project-title" id="chr-title">Internal Website</h1>
+                        <h1 class="project-title" id="chr-title">Enterprise Application</h1>
                         <h4 class="project-type" id="chr-type">UX/UI Design</h4>
                     </div>
                 </div>
             </div>
 
             <h6 class="container-fluid project-summary" id="chr-summary">
-                            C.H. Robinson is a fortune 500 company providing third-party logistics for supplies and goods.
+                            Collaborated with two team members to provide C.H. Robinson with an improved EUX tool.
                         </h6>
 
         </div>
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="moi-summary">
-            Mid-Continent Oceanographic Institute, also know as MOI, is a non-profit organization providing under resourced k-12 students a place to learn and build creative writing skills.
+            Worked as an independent contractor to increase Mid-Continent Oceanographic Institute's community involvement.
                         </h6>
         </div>
     </div>
@@ -80,7 +80,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="emr-summary">
-            BackpackEMR provides custom solutions for campaign medical records in remote regions of the world.
+            Collaborated with a design team to add metric gathering for BackpackEMR's medical application.
         </h6>
 
         </div>
@@ -107,7 +107,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="recreogo-summary">
-                Recreogo is a recreational rental marketplace paired with trusted partners to provide access to a selection of quality, outdoor rental inventory.
+                Improved the workflow of Recreogo's software and tailored to customers and clients.
             </h6>
         </div>
     </div>
@@ -131,7 +131,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="prime-summary">
-                Prime Digital Academy is an 18-week immersive program dedicated to creating software developers in the Twin Cities.
+                Proposed multiple solutions to Prime Digital Academy's administration to increase student applicants.
             </h6>
         </div>
     </div>
@@ -156,7 +156,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="psp-summary">
-            PeopleSourced Policy is a nonprofit, nonpartisan group that encourages community engagement in the local political process.
+            Collaborated with team members to improve PeopleSourced Policy's e-learning application.
         </h6>
         </div>
     </div>
@@ -169,7 +169,7 @@
             <div class="row justify-content-center align-items-center toggle">
                 <div class="col">
                     <div class="fit">
-                        <img class="center" src="images/s" alt="IdentiSys's Logo">
+                        <img class="center" src="images/design/identiSys_logo.png" alt="IdentiSys's Logo">
                     </div>
                 </div>
                 
@@ -181,7 +181,7 @@
                 </div>
             </div>
             <h6 class="container-fluid project-summary" id="design-summary">
-            Collection of some pieces designed for IdentiSys.
+            Some graphic pieces from my collection designed for IdentiSys.
         </h6>
         </div>
     </div>

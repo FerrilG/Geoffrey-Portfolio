@@ -10,86 +10,87 @@
 <div class="col full">
 
 
+<!-- Head -->
 <div class="row full crm" style="padding-top:5%;padding-bottom:2%">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col banner">
-                    <div>
-                        <img class="fit banner" src="images/psp/PSP_Project-Banner.png" alt="My Solution for PeopleSourced Policy">
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="container-fluid center-text">
+        <img class="fit banner" src="images/psp/PSP_Project-Banner.png" alt="My Solution for PeopleSourced Policy">
     </div>
+</div>
 
-    <!-- Head -->
 
-<div class="row full title deepblu">
-        <div class="center" style="overflow:hidden">
-        <h1 id="title" style=" text-decoration:none">PEOPLESOURCED POLICY</h1>
-        </div>
+<div class="row full title deepblu" style="border-bottom: 2px solid;">
+    <div class="center" style="overflow:hidden">
+    <h1 id="title" style="text-decoration:none">PEOPLESOURCED POLICY</h1>
     </div>
+</div>
 
+<!-- Tools -->
+<a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#tools">
+    <h2 class="center" style="margin: 0px auto">Design Tools</h2></a>
 
-
-    <!-- Skills -->
-    <div class="row full crm">
-
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col center-text">
-                    <h4 class="list">Methods Used</h4>
-                    <ul class="method-list center">
-                        <li>Heuristic Analysis</li>
+        <div class="col crm collapse" id="tools">
+        <div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col center-text" style="border-right: 1px solid;">
+            <h4 class="list">Methods Used</h2>
+            <ul class="method-list center">
+            <li>Heuristic Analysis</li>
                         <li>Usability Testing</li>
                         <li>Remote User Testing</li>
                     </ul>
-                </div>
+                </ul>
+        </div>
 
-                <div class="col center-text">
-                    <h4 class="list">Tools Used</h4>
-                    <ul class="tool-list center">
-                        <li>Axure</li>
+        <div class="col center-text" style="border-left: 1px solid;">
+            <h4 class="list">Tools Used</h2>
+                <ul class="tool-list center">
+                <li>Axure</li>
                         <li>Illustrator</li>
                         <li>Pen & Paper</li>
                         <li>Whiteboards</li>
                     </ul>
-
-                </div>
+</div>
             </div>
         </div>
+    </div>
 </div>
-
-
 
 
 
 
     <!-- Challenge -->
-    <div class="row full pstlgry">
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#challenge">
+    <h2 class="center" style="margin: 0px auto">Challenge</h2></a>
 
-        <div class="col">
-            <h2 class="center-text">Challenge</h2>
-   <p><a target="_blank" href="http://peoplesourcedpolicy.org">PeopleSourced Policy (PSP)</a> wants to create a tool that will educate students and community members on the political budgeting process. PSP provided an existing application, Austin Budget Party, and wanted input on recommendations before they began development.</p>
-    <p>My challenge was to send PSP a report that documents what should be altered to help users learn.</p>    
+        <div class="col crm collapse" id="challenge">
+        <div class="content">
+                   <p>PeopleSourced Policy (PSP) wants to create a tool that will educate students and community members on the political budgeting process. PSP provided an existing application, Austin Budget Party, and wanted input on recommendations before they began development.</p>
+    <p>My challenge was to send PSP a report that documents what should be altered to help users learn.</p>  
+                      </div>
 </div>
-    </div>
+
 
 <!-- Approach -->
-    <div class="row full paste">
-        <div class="col">
-            <h2 class="center-text">Approach</h2>
+
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#approach">
+    <h2 class="center" style="margin: 0px auto">Approach</h2></a>
+
+        <div class="col crm collapse" id="approach">
+        <div class="content">
             <p>Since I was given an existing application, my first step was to evaluate it. I analyzed it based on heuristics specific to its functionality and created a report. I then wanted to know what users thought, so I took this information and designed a script to complete specific actions.</p>
             <p>I used this script to guide moderated usability tests, both in-person and remote to formulate what a working prototype would look like. I documented my findings and created a final report that was delivered to PSP.</p>
-        </div>
-    </div>
+</div>
+</div>
 
-    <!-- Research -->
-    <div class="row full crm">
-        <div class="col">
-            <h2 class="center-text">Research and Findings</h2>
-           
-            
+
+    <!-- Research & Findings -->
+
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#research">
+    <h2 class="center" style="margin: 0px auto">Research</h2></a>
+
+        <div class="col crm collapse" id="research">
+        <div class="content">
         <!-- Heuristic Analysis -->
         <h5 class="center-text">Heuristic Analysis</h5>
 
@@ -106,11 +107,11 @@
         <div class="row">
         <div class="col">
             <h6 class="center-text">Remote</h6>
-            <p>Conducted using <a target="_blank" href="https://lookback.io">Lookback</a>, a screen sharing tool, I moderated users through my script to gain feedback about the existing application. I found that not being able to control the environment the user was in to be difficult.</p>
+            <p>Conducted using <strong>Lookback</strong>, a screen sharing tool, I moderated users through my script to gain feedback about the existing application. I found that not being able to control the environment the user was in to be difficult.</p>
         </div>
         <div class="col">
             <h6 class="center-text">In-Person</h6>
-            <p>I rented space at <a target="_blank" href="http://consultfathom.com">Fathom Consulting</a> to carefully examine users in a controlled environment. This enable our team to individually monitor specific characteristics while performing the tasks. </p>
+            <p>I rented space at <strong>Fathom Consulting</strong> to carefully examine users in a controlled environment. This enable our team to individually monitor specific characteristics while performing the tasks. </p>
         </div>
         </div>
         <div>
@@ -121,25 +122,25 @@
        <h5 class="center-text">Syntheses</h5>
 
         <p>I then took my results and compiled them into a spreadsheet to find similarities and overarching themes. This was a daunting task because there were multiple reactions and filtering outliers apart took a long time.</p>
-
-       <!-- Recommendation Report -->
-       <h5 class="center-text">Recommendation Report</h5>
-
-        <p>After compiling the data I was then able to construct a report to deliver to PSP on my recommendations. I found that the current application only needed some slight modifications to improve the impact it had on people. Users liked "Austin Budget Party" but felt it had no ground to stand on independently. I recommended that PSP build an objective into their application to set user constraints.</p>
-        <div>
-            <img class="fit space" src="images/psp/Recommendation+Report.png" alt="Recommendation Report">
-        </div>
     </div>
 </div>
 
-    <!-- Reflection -->
-    <div class="row full lightblu">     
-        <div class="col">
-            <h2 class="center-text">Reflection</h2>
-            <p>I enjoyed this project because it allowed me to work with people across the United States and those in my local community. This project was different as it focused on users interacting with a product and being able to learn. It was critical to understand how a user thinks and provide a solution that conforms to a diverse crowd.</p>
 
-        </div>
-    </div>
+
+
+    <!-- Solution -->
+
+    <a class="row full pstlgry collapsed" data-toggle="collapse" aria-expanded="false" style="border-bottom: 2px solid;padding-bottom: 2%;padding-top: 2%;text-decoration:none" href="#solution">
+    <h2 class="center" style="margin: 0px auto">Recommendation</h2></a>
+
+    <div class="col crm collapse" id="solution">
+    <div class="content">
+<p>After compiling the data I was then able to construct a report to deliver to PSP on my recommendations. I found that the current application only needed some slight modifications to improve the impact it had on people. Users liked "Austin Budget Party" but felt it had no ground to stand on independently. I recommended that PSP build an objective into their application to set user constraints.</p>
+<div>
+    <img class="fit space" src="images/psp/Recommendation+Report.png" alt="Recommendation Report">
+</div>
+                </div>
+</div>
 
 
 <div class="deepblu" style="padding-top:10%"></div>

@@ -19,16 +19,7 @@
     </div>
 
 
-<!-- Logo Design -->
-    <div class="row img-mask crm">
-        <div class="col">
-                <img class="fit" src="images/recreogo/.jpg" alt="Logo_Design_1">
-        </div>
-        <div class="col">
-            <img class="fit" src="images/recreogo/.jpg" alt="Logo_Design_2">
-        </div>
 
-</div>
 
 
 
